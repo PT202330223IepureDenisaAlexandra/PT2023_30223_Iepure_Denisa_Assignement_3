@@ -1,0 +1,6 @@
+Bill ID: 1
+Client Name: Pavel Andreea
+Product Name: ciment
+Quantity: 73
+Total price: 150
+Date: 2023-05-18 18:52:30

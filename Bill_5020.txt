@@ -1,0 +1,6 @@
+Bill ID: 5020
+Client Name: Ciofu Dina
+Product Name: polistiren
+Quantity: 230
+Total price: 5750quantity 230x price:0
+Date: 2023-05-18 21:35:46

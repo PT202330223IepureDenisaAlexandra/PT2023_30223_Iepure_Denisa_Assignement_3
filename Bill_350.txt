@@ -1,0 +1,6 @@
+Bill ID: 350
+Client Name: Ciofu Dina
+Product Name: gresie
+Quantity: 2
+Total price: 24-------------quantity  x  price   --2  X  12
+Date: 2023-05-18 21:38:54

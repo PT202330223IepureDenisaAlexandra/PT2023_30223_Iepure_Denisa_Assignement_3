@@ -1,0 +1,6 @@
+Bill ID: 2106
+Client Name: Gradinariu Robert
+Product Name: faianta
+Quantity: 6
+Total price: 120-------------quantity  x  price   --6  X  20
+Date: 2023-05-18 22:05:26

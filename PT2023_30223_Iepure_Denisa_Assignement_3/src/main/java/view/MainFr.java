@@ -80,6 +80,18 @@ public class MainFr {
             }
 
         });
+        rButtonOrders.addActionListener(new ActionListener()
+        {
+
+            @Override
+            public void actionPerformed(ActionEvent e) {
+                // TODO Auto-generated method stub
+                frame.setVisible(false);
+                new OrdersView();
+
+            }
+
+        });
 
 
     }

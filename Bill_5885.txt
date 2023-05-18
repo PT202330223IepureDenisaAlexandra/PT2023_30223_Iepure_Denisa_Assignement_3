@@ -1,0 +1,6 @@
+Bill ID: 5885
+Client Name: Gradinariu Robert
+Product Name: ciment
+Quantity: 53
+Total price: 150
+Date: 2023-05-18 19:05:10

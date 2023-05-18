@@ -1,0 +1,6 @@
+Bill ID: 7275
+Client Name: Iepure Diana
+Product Name: ciment
+Quantity: 10
+Total price: 1200-------------quantity  x  price   --10  X  120
+Date: 2023-05-18 22:01:29

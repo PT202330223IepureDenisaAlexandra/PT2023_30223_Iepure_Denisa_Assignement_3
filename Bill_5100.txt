@@ -1,0 +1,6 @@
+Bill ID: 5100
+Client Name: Pavel Andreea
+Product Name: gresie
+Quantity: 30
+Total price: 360
+Date: 2023-05-18 21:31:06

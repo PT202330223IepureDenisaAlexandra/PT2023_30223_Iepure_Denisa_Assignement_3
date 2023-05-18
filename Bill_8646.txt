@@ -1,0 +1,6 @@
+Bill ID: 8646
+Client Name: Iepure Diana
+Product Name: faianta
+Quantity: 4
+Total price: 80-------------quantity  x  price   --4  X  20
+Date: 2023-05-18 22:03:01
